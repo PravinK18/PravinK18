@@ -12,8 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/pkonasirasgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pkonasirasgi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pravin-konasirasgi-a9479b179/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pravinkonasirasgi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15291876" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15291876" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/pravinkonasirasgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pravin konasirasgi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010245605289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pravinkonsirasgi" height="30" width="40" /></a>
 <a href="https://instagram.com/k_pravin18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="k_pravin18" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC16wopRI3E0mhuNNOV94RIQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pravinkonasirasgi" height="30" width="40" /></a>
