@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravink18&label=Profile%20views&color=0e75b6&style=flat" alt="pravink18" /> </p>
 
-- 🔭 I'm an Undergraduate Third Year Student currently pursuing B.Tech in Computer Science Engineering at Walchand Institute of Technology, Solapur.
+- 🔭 Digital Specialist Engineer at Infosys.
 - 🌱 I love to work with Machine Learning & Web Designing projects.
 - ⚡ Fun fact: I spend few hours reading books in my leisure time.
 - 📫 How to reach me **pravinkonsirasgi18@gmail.com**
